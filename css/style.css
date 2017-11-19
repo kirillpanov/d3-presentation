@@ -1,0 +1,22 @@
+.infoBar {
+    background-color: #979797;
+    padding: 10px;
+    border-radius: 5px;
+    color: #fff;
+    width: 500px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+.svgContainer {
+    outline: 1px solid #000;
+    background-color: #CFCFCF;
+}
+.rectangle {
+    fill: #5E5E5E;
+    cursor: pointer;
+}
+.rectangle:hover {
+    fill: #51FF00;
+}
